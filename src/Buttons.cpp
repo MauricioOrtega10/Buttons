@@ -54,4 +54,4 @@ int Buttons::read(unsigned int button)
     return reading;
 }
 
-Buttons buttons(Button_1_PIN, Button_2_PIN, Button_3_PIN, Button_4_PIN, Button_5_PIN);
+Buttons buttons(BUTTON_1_PIN, BUTTON_2_PIN, BUTTON_3_PIN, BUTTON_4_PIN, BUTTON_5_PIN);
