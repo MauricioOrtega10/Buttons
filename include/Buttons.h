@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef _Potentiometer_h
-#define _Potentiometer_h
+#ifndef _Buttons_h
+#define _Buttons_h
 
 #include <ButtonsConfig.h>
 
